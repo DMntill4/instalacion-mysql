@@ -138,31 +138,4 @@ instalacion-mysql/
 
 ---
 
-## Subir las capturas al repositorio (referencia rápida)
-
-```bash
-# Clonar el repositorio (si aún no lo tienes localmente)
-git clone https://github.com/DMntill4/tu-repositorio.git
-cd tu-repositorio
-
-# Crear la carpeta de imágenes y copiar tus capturas allí
-mkdir img
-# (copia manualmente tus 4 capturas dentro de /img)
-
-# Subir los cambios
-git add .
-git commit -m "Agrega evidencias de instalación de MySQL"
-git push origin main
-```
-
----
-
-## Notas Adicionales
-
-> Espacio opcional para documentar cualquier inconveniente durante la instalación (ej. puerto 3306 ocupado, firewall de Windows, error de conexión) y cómo se resolvió.
-
-- [Tu nota aquí]
-
----
-
 <p align="center"><i>Entrega correspondiente a la actividad de Onboarding técnico — CampusLands</i></p>
